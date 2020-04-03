@@ -11,14 +11,19 @@ I took the PDF files and made them into scalable vector graphics images using th
 This way you can scale them and make them suit your needs as one size doesn’t fit all. 
 Further investigation led me to the organization Masks of Love WNC.
 
-You can download the DIY face mask patterns here:
-
-PDF mask+1+regular+size+with+pocket+A-side and B-side and SVG here.
-
-PDF mask+2+large+pattern here and SVG here.
-
-PDF mask+2+regsize+pattern here and SVG here.
-
-PDF mask+2+child+pattern here and SVG here.
+You can download the DIY face mask patterns in PDF and SVG format here:
+PDF mask+1+regular+size+with+pocket+A-side and B-side.
+PDF mask+2+large+pattern.
+PDF mask+2+regsize+pattern.
+PDF mask+2+child+pattern.
 
 Stay safe and please help each other!
+
+Mask URLS:
+DIY Cloth Face Mask: https://www.instructables.com/id/DIY-Cloth-Face-Mask/
+Jennifer Murphy: http://www.jmurphyarts.com/
+Masks of Love WNC: https://masksoflove.org/
+
+Technique URLS:
+Punished Props Academy: https://www.youtube.com/channel/UC27YZdcPTZM24PgjztxanEQ
+Instruction video on how to vectorize: https://www.youtube.com/watch?v=31XF5CQ5U0o
